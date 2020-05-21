@@ -1,0 +1,4 @@
+# Requests
+requests
+# Beautiful Soup 4
+bs4
