@@ -56,5 +56,4 @@ class Wiki:
 
 if __name__ == '__main__':
 
-    w = Wiki('Tomate', 'DE')
-    w.search_meaning()
+    pass
